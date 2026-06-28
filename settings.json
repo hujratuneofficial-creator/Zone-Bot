@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Zone_Fan",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Zone_fan",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "CROWN_SMP-0JTt.aternos.me",
+    "port": 50603,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Zoneofadam!",
         "I like to play Minecraft!"
       ]
     },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "Subscribe To Zoneofadam",
     "events": {
       "connect": true,
       "disconnect": true,
